@@ -1,0 +1,7 @@
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\bin\Debug\Zadatak2.pdb
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csprojAssemblyReference.cache
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csproj.CoreCompileInputs.cache
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+D:\Zadace\Za Kraj Polugodista\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
